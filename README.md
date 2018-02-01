@@ -26,6 +26,10 @@ dependencies{
 ```   
 membuat permission Internet pada AndroidManifest.xml<br>
 ```<uses-permission android:name="android.permission.INTERNET" />```
+
+membuat folder menu dan create file menu_cafe.xml untuk pemanggilan data yang ada di di folder menu lalu sisipkan image<br>
+```https://www.dropbox.com/s/pt3pshhbbteu23o/menu_cafe.xml?dl=1```<br>
+rubah angka 0 menjadi 1
 <hr/>
 
 ## Demo Aplikasi
