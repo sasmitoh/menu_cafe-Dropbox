@@ -1,0 +1,52 @@
+<data>
+<item>
+<nama>coca-cola</nama>
+<harga>10000</harga>
+<link>https://www.dropbox.com/s/m97jmcs5dx5ah23/coca-cola.jpg?dl=1</link>
+</item>
+<item>
+<nama>es jeruk</nama>
+<harga>8000</harga>
+<link>https://www.dropbox.com/s/n3c7vqk5gze3j39/esjeruk.jpg?dl=1</link>
+</item>
+<item>
+<nama>Cofee</nama>
+<harga>25000</harga>
+<link>https://www.dropbox.com/s/hgio0gqxr0gfyqf/cofee.jpg?dl=1</link>
+</item>
+<item>
+<nama>Red velvet cake</nama>
+<harga>45000</harga>
+<link>https://www.dropbox.com/s/pn2fnx4kpgqzba6/redvelvet.jpg?dl=1</link>
+</item>
+<item>
+<nama>donat</nama>
+<harga>20000</harga>
+<link>https://www.dropbox.com/s/iaz2ws9c3awinw2/donat.jpg?dl=1</link>
+</item>
+<item>
+<nama>Kfc</nama>
+<harga>25000</harga>
+<link>https://www.dropbox.com/s/up46ulrgm2tvirq/kfc.jpg?dl=1</link>
+</item>
+<item>
+<nama>Pepsi</nama>
+<harga>10000</harga>
+<link>https://www.dropbox.com/s/68oauyoe9nsdvwk/pepsi.jpg?dl=1</link>
+</item>
+<item>
+<nama>Ayam bakar</nama>
+<harga>15000</harga>
+<link>https://www.dropbox.com/s/twbbz5f0rk3cxpi/ayam-bakar.jpg?dl=1</link>
+</item>
+<item>
+<nama>Mie goreng</nama>
+<harga>15000</harga>
+<link>https://www.dropbox.com/s/6qo9wsfb1g3057e/mie-goreng.jpg?dl=1</link>
+</item>
+<item>
+<nama>Nasi goreng</nama>
+<harga>20000</harga>
+<link>https://www.dropbox.com/s/qlkx8krhhx5w7vs/nasigoreng.jpg?dl=1</link>
+</item>
+</data>
